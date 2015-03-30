@@ -7,7 +7,7 @@ import java.awt.*;
 import java.util.ArrayList;
 
 public class ArticuloJuego extends JFrame{
-	private JLabel atri1, atri2, atri3, atri4, atri5, atri6;
+	
 	private JTextField txtCodigo, txtNombre, txtPrecio, txtCantidad;
 	private JButton Agregar, Modifica, Buscar, Eliminar;
 	private JComboBox Bcate;
